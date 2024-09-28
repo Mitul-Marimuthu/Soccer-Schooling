@@ -1,0 +1,15 @@
+In order to solve a problem dealing with combinations and permutations, you are going to need the formulas shown above. The 'n' represents the total 
+number of items there are, and the 'r' represents the number of items selected. The main distinction between these two formulas is that when dealing
+with permutations, order matters!! You need to question yourself 'Does order matter?' in order to figure out which formula to use.
+In order to apply this to a probability problem, you need to understand what to look for. If you are given a list of 10 letters and are asked to find 
+how many words of 3 you can make from those, you should be able to identify that it is a permutation problem. Order counts in this one. 
+You can then plug in the 10 as 'n' and the 3 as 'r' and solve the problem. If you are asked the same problem, but can have no repeats, you need to
+account for the repeats by making it so only one instance of that letter can be used. If the would given is 'salamander', instead of your expression 
+being 10!/(10-3)!, it would be 7!/(7-3)!. Ind ifficult mode, when asked to find the chances of getting the marble a certain number of times, 
+you need to account for all of the possibilities. For example, if the question says that 3 marbles are drawn and asks for the chances of at least one 
+being a certain color, you will need to the account for all of the possible outcomes, which in this case are 0 marbles being the color you need, 
+1, 2, or 3 marbles being the color you need. In this case, you would need to account for 1,2, or 3 marbles, so you would need to find the probabilities
+of all 3 and add them to get your final answer. Hint: This can be done faster with the use on combinations. 
+
+To solve a regular probability problem, the way to do it is find the number of ways that the event you are looking for can occur and then divide it by 
+the total number of events.  

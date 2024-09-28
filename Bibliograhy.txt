@@ -1,0 +1,60 @@
+
+
+
+Information:
+"6 Letter Words". yougowords.com, WordFinder - You Go Words!, n.d., <http://www.yougowords.com/6-letters>
+
+"7 Letter Words". yougowords.com, WordFinder - You Go Words!, n.d., <http://www.yougowords.com/7-letters>
+
+"8 Letter Words". yougowords.com, WordFinder - You Go Words!, n.d., <http://www.yougowords.com/8-letters>
+
+"9 Letter Words". yougowords.com, WordFinder - You Go Words!, n.d., <http://www.yougowords.com/9-letters>
+
+"10 Letter Words". yougowords.com, WordFinder - You Go Words!, n.d., <http://www.yougowords.com/10-letters>
+
+“Adding Margins in a JTextArea?” Stack Overflow, n.p. 1 Nov. 1961, 
+	<stackoverflow.com/questions/14740979/adding-margins-in-a-jtextarea.>
+
+DeRuiter, Scott. GameModuleFiles.java 
+
+“Insets (Java Platform SE 7 ).” Oracle, Oracle, 24 June 2020, 
+	<docs.oracle.com/javase/7/docs/api/java/awt/Insets.html.>
+
+
+Images:
+
+"Football Ball Vector Sport Game Symbol Realistic Soccer Ball Illustration." Digital Image, pngtree.com, 26 April 2021, Web, n.p., n.d., 
+	<https://pngtree.com/so/soccer-ball>
+
+
+Getty. "Neuer: Winning a sixth title is an extra motivation". Digital Image, fifa.com, 17 April 2021, Web, FIFA, 2 February 2021, 
+	<https://www.fifa.com/clubworldcup/news/neuer-winning-a-sixth-title-is-an-extra-motivation> 
+
+
+Getty. “Soccer and European Identity.” Digital Image, Daily.jstor.org, 17 April 2021, Web, ITHAKA, 15 June 2018, 
+	<daily.jstor.org/soccer-and-european-identity/.> 
+
+"Normal Curve". Digital Image. chegg.com. 10 May 2021, Web, Chegg Inc., n.d., 
+	<https://www.chegg.com/homework-help/definitions/normal-curve-31>
+
+Save nature and wildlife. "Soccer goalkeeper silhouette vector." Digital Image, shutterstock.com, 26 April 2021, Web, n.p., n.d.,
+	<https://www.shutterstock.com/search/soccer+goalie+silhouette>
+
+Sitkar, Joshua. "Behold, the unit circle!" Digital Image, expii.com, 10 May 2021, Web, Expii, Inc. n.d., 
+	<https://www.expii.com/t/what-is-the-unit-circle-5221>
+
+"Sports Staduim with Soccer Goal Image." Digital Image, vectorstock.com, 17 April 2021, Web, VectorStock Media, n.d., 
+	<https://www.vectorstock.com/royalty-free-vector/sports-stadium-with-soccer-goal-vector-19747769>
+
+Taylor, Courtney. "The Difference Between Combinations and Permutation." Digital Image. thoughtco.com, 10 May 2021, Web, n.p., 10 April 2018, 
+	<https://www.thoughtco.com/combinations-vs-permutations-3126548>
+
+teka12. "Soccer goalkeeper silhouette vector." Digital Image, shutterstock.com, 26 April 2021, n.p., n.d., 
+	<http://getdrawings.com/soccer-goalie-silhouette>
+
+
+Volrab, Vaclab. "Stock Photo - Soccer ball and foot of football player. The beginning of the game." Digital Image. 123rf.com, 26 April 2021, Web, 123RF, n.d., 
+	<https://www.123rf.com/photo_79374182_soccer-ball-and-foot-of-football-player-the-beginning-of-the-game.html>
+
+
+

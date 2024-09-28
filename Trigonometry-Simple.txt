@@ -1,0 +1,11 @@
+sammy	-	100
+mitul	-	7
+jkl	-	3
+jkl	-	2
+jkl	-	2
+mikey	-	1
+jkl	-	1
+jkl	-	1
+jkl	-	1
+jk	-	0
+jk	-	0

@@ -1,0 +1,20 @@
+In order to solve a basic trigonometry problem, there are 3 steps you need to know: identify the angle, draw a right triangle and figure out
+which leg you need, and calculate the length of that leg. In order to find the angle in standard position, you will need to know
+that the initial side of the angle is on the x-axis, and that the terminal side moves counter-clockwise. This means that a 90 degree angle 
+will have its initial side on the x-axis, and its terminal side on the y-axis. Once you have located the angle, you will have to 'draw' a vertical
+to the x-axis to get the reference angle needed to find the needed value. This makes it so all triangles drawn using the questions given will be right 
+and follow a 30-60-90 or a 45-45-90 pattern. Once that is complete, in order to find which leg you need to find, you will need to know these 
+6 trig identities:
+
+sin = length of vertical leg
+cos = length of horizontal leg
+tan = sin/cos
+sec = 1/cos
+csc = 1/sin 
+cot = cos/sin or 1/tan
+
+All of these identies are made possible by the fact that the length of any hypotenuse on the unit circle (shown above) has a length of one unit. All
+that is left to do is to calculate the length of the leg using the pattern of 30-60-90 and 45-45-90 triangle, being (x, x sqrt 3, 2x) and (x, x, x sqrt 2)
+respectively. Once you this you have your answer. 
+
+BE WARNED: BOTH ANGLES AND LEG LENGTH CAN BE NEGATIVE 

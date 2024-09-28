@@ -1,0 +1,5 @@
+Start of the panel is only the first set of options.
+The remaining 2 options are on their own spereate card layouts in order to present a smooth animation and not thorw all the inofrmation out at once
+Using the counter variable, it switches cards on the other parts of the gridlayout, presenting the next set of information.
+The condionals have >= symbols in case the player chnages their mind later
+This is done until all 3 option sets are shown and information is gathered. From that point the user can click the polay buttn to start the game.

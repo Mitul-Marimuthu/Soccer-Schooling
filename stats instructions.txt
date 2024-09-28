@@ -1,0 +1,29 @@
+In most if not all stats problems given by us, the mean and the standard deviation are given. This will help you understand where percentiles are located
+For example, you can see that 1 standard deviation to the right from the mean makes up 68% of the area of the curve, meaning that that is the 68th
+percentile. The percentiles for the other standard deviations are given. This will be helpful when trying to find what percent of people are in a given
+percentile. Otherwise, it is easy to calculate how many standard devations a certain value is from the mean by subtracting the mean from your value, then 
+dividing the difference from the standard deviation. 
+
+Sampling - in order to identify the type of sample you need to ask yourself which criteria from the following makes sense:
+
+convenience: only sampling people who are easy to reach
+
+cluster: the population is divided into groups and only one or more groups are sampled
+
+stratified: the population is divided into groups and a number of members form each group are sampled
+
+systematic: using a set rule for samplin (i.e. every 5th person)
+
+self-selected: people volunteer to be sampled
+
+
+
+Data collection - ask yourself which of the criteria makes the most sense for what you are trying to find:
+
+experiment: using a treatment group, a control group, and a treatment
+
+observational study: observes individuals and collect data based on their habits
+
+survey: people are asked questions
+
+simulation: using a model to reproduce the conditions of a situation
